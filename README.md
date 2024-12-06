@@ -3,7 +3,7 @@
 ###  Our Purpose:
 - The main purpose of our analysis to highlight the biggest event in the middle east the last 6 months, which is isreal palestine war in addition to produce meaningful outputs of opinions on the IsrealPalestine subreddit posts and comments. The code last running time was 2024/1/28.
 
-### Description:
+### Description:1
 - This project conducts comprehensive sentiment analysis and exploratory data analysis (EDA) on discussions within the IsraelPalestine subreddit, focusing on the sentiment polarity of posts and comments, temporal trends, controversial topics, and prevalent themes through topic modeling. Leveraging machine learning models and natural language processing techniques, sentiment analysis uncovers prevailing sentiment trends, while EDA unveils hidden patterns and relationships within the dataset. Additionally, the project estimates user locations and identifies controversial topics, providing valuable insights into community dynamics. Furthermore, topic modeling techniques such as Latent Dirichlet Allocation (LDA) extract prevalent themes driving discussions within the subreddit.
 
 ### Key Features and Analysis:
